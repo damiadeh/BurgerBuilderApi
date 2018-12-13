@@ -1,0 +1,7 @@
+C:\Pluralsight\C#\windows app\windows app\bin\Debug\windows app.exe.config
+C:\Pluralsight\C#\windows app\windows app\bin\Debug\windows app.exe
+C:\Pluralsight\C#\windows app\windows app\bin\Debug\windows app.pdb
+C:\Pluralsight\C#\windows app\windows app\obj\Debug\windows app.csprojAssemblyReference.cache
+C:\Pluralsight\C#\windows app\windows app\obj\Debug\windows app.csproj.CoreCompileInputs.cache
+C:\Pluralsight\C#\windows app\windows app\obj\Debug\windows app.exe
+C:\Pluralsight\C#\windows app\windows app\obj\Debug\windows app.pdb
